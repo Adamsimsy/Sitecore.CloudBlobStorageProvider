@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {0C613816-AFBE-4285-A6BA-B607BBD46AAB}
+database: master
+path: /sitecore/content/Home/News/2015/01/10/00/05/Arsenal take on Barcelona in Champions league final
+parent: {6D4766DC-8CAD-41F1-8E5B-519E2DC60694}
+name: Arsenal take on Barcelona in Champions league final
+master: {00000000-0000-0000-0000-000000000000}
+template: {F3BF19A2-9D11-4BFA-82CC-362CA7C11C25}
+templatekey: NewsStory
+
+----version----
+language: en
+version: 1
+revision: c17f6ec0-c511-4564-834d-c43d3954971e
+
+----field----
+field: {9BE0C7AA-AC23-4841-938D-5A0496776C43}
+name: Title
+key: title
+content-length: 51
+
+Arsenal take on Barcelona in Champions League Final
+----field----
+field: {30ED6379-F22F-4F4C-858C-3DDAA4D39C22}
+name: Body
+key: body
+content-length: 236
+
+<p><a href="~/link.aspx?_id=A3CBA4A0415D42388D82DB21830E12E7&amp;_z=z">Arsenal</a> take on <a href="~/link.aspx?_id=983E63BFC4F44239AFE224724CC08C12&amp;_z=z">Barcelona</a> in Champions League Final&nbsp;at the&nbsp;Wembley Stadium.</p>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20141221T154313Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c17f6ec0-c511-4564-834d-c43d3954971e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150110T203533:635565189335364056Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
